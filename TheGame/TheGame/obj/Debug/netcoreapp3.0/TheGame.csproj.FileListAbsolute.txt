@@ -1,0 +1,11 @@
+C:\Users\General User\Desktop\CSharp\CSharp_Extra\TheGame\TheGame\bin\Debug\netcoreapp3.0\TheGame.exe
+C:\Users\General User\Desktop\CSharp\CSharp_Extra\TheGame\TheGame\bin\Debug\netcoreapp3.0\TheGame.deps.json
+C:\Users\General User\Desktop\CSharp\CSharp_Extra\TheGame\TheGame\bin\Debug\netcoreapp3.0\TheGame.runtimeconfig.json
+C:\Users\General User\Desktop\CSharp\CSharp_Extra\TheGame\TheGame\bin\Debug\netcoreapp3.0\TheGame.runtimeconfig.dev.json
+C:\Users\General User\Desktop\CSharp\CSharp_Extra\TheGame\TheGame\bin\Debug\netcoreapp3.0\TheGame.dll
+C:\Users\General User\Desktop\CSharp\CSharp_Extra\TheGame\TheGame\bin\Debug\netcoreapp3.0\TheGame.pdb
+C:\Users\General User\Desktop\CSharp\CSharp_Extra\TheGame\TheGame\obj\Debug\netcoreapp3.0\TheGame.csprojAssemblyReference.cache
+C:\Users\General User\Desktop\CSharp\CSharp_Extra\TheGame\TheGame\obj\Debug\netcoreapp3.0\TheGame.AssemblyInfoInputs.cache
+C:\Users\General User\Desktop\CSharp\CSharp_Extra\TheGame\TheGame\obj\Debug\netcoreapp3.0\TheGame.AssemblyInfo.cs
+C:\Users\General User\Desktop\CSharp\CSharp_Extra\TheGame\TheGame\obj\Debug\netcoreapp3.0\TheGame.dll
+C:\Users\General User\Desktop\CSharp\CSharp_Extra\TheGame\TheGame\obj\Debug\netcoreapp3.0\TheGame.pdb
